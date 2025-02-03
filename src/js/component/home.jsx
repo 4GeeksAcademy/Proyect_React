@@ -12,15 +12,19 @@ const Home = () => {
 		<>
 	<div>
 		< Navbar />
+		{/* Hecho por Joan */}
 	</div>
 	<div>
 		< Jumbotron />
+		{/* Hecho por Pablo */}
 	</div>
 	<div>
 		< Card />
+		{/* Hecho por Alex */}
 	</div>
 	<div>
 		< Footer />
+		{/* Hecho por Joan */}
 	</div>
 	</>
 	);
